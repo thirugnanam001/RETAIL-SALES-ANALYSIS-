@@ -1,2 +1,2 @@
 # RETAIL-SALES-ANALYSIS-
-Relational retail dataset for a multi-store bike shop: customers, orders, order items, products, brands, categories, stores, staff, and stock levels. Ideal for SQL practice, sales analysis, inventory tracking, and customer segmentation projects.
+End-to-end retail sales analytics project on a bike shop dataset: SQL queries for sales trends, top products, customer segmentation, and staff performance, paired with an interactive Power BI dashboard for revenue, inventory, and customer insights.
